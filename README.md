@@ -11,6 +11,7 @@ Setup lengkap ekosistem AI coding agent plugins untuk **Antigravity** (Windows /
 - `install-all.ps1`: Skrip bootstrap otomatis untuk memasang seluruh plugin di mesin baru.
 - `docs/PLAYBOOK.md`: Panduan lengkap optimasi semua plugin, auto-orientation, alur kerja 0 → finish, proyek berjalan, & cheat-sheet prompt.
 - `docs/playbook-optimasi-skills.md`: Playbook optimasi skill (diagram alur, fase 0–5, dan cheat-sheet prompt siap pakai).
+- `docs/PROMPT-EXAMPLES.md`: Kumpulan sample variasi prompt yang baik & benar (proyek baru, rombak UI anti-slop, audit React, debugging, hingga utilitas).
 
 ---
 
@@ -59,4 +60,4 @@ Setup lengkap ekosistem AI coding agent plugins untuk **Antigravity** (Windows /
   /grill-with-docs <ide fitur atau proyek>
   ```
 
-Lihat panduan selengkapnya di [`docs/PLAYBOOK.md`](docs/PLAYBOOK.md) atau [`docs/playbook-optimasi-skills.md`](docs/playbook-optimasi-skills.md).
+Lihat panduan selengkapnya di [`docs/PLAYBOOK.md`](docs/PLAYBOOK.md), [`docs/playbook-optimasi-skills.md`](docs/playbook-optimasi-skills.md), dan contoh prompt di [`docs/PROMPT-EXAMPLES.md`](docs/PROMPT-EXAMPLES.md).
