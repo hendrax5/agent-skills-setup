@@ -1,0 +1,14 @@
+﻿{
+  "name": "autopilot-workflows",
+  "displayName": "Autopilot Workflows",
+  "version": "1.0.0",
+  "description": "Single-command orchestrator skills (/autopilot-build and /autopilot-ui-fix) that chain planning, anti-slop UI design, TDD implementation, Playwright testing, and code review across fresh subagent contexts.",
+  "author": {
+    "name": "User Custom"
+  },
+  "suggestedPrompts": [
+    "/autopilot-build <jelaskan ide proyek/fitur>",
+    "/autopilot-ui-fix rombak tampilan frontend agar bebas AI slop",
+    "/autopilot-ui-fix audit dan perbaiki UX, responsivitas mobile, dan performa React"
+  ]
+}
