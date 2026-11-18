@@ -9,7 +9,8 @@ Setup lengkap ekosistem AI coding agent plugins untuk **Antigravity** (Windows /
   - `/autopilot-build`: Orkestrator 1 perintah untuk proyek dari `0 → finish` (arsitektur, domain glossary/ADR, `DESIGN.md`, spec, tiket *vertical-slice*, implementasi TDD, Playwright/browser QA, & *dual-axis code review*).
   - `/autopilot-ui-fix`: Orkestrator 1 perintah untuk mengaudit dan merombak total frontend yang terasa *AI slop*.
 - `install-all.ps1`: Skrip bootstrap otomatis untuk memasang seluruh plugin di mesin baru.
-- `docs/PLAYBOOK.md`: Panduan lengkap optimasi semua plugin, alur kerja 0 → finish, alur perbaikan proyek berjalan, dan cheat-sheet prompt.
+- `docs/PLAYBOOK.md`: Panduan lengkap optimasi semua plugin, auto-orientation, alur kerja 0 → finish, proyek berjalan, & cheat-sheet prompt.
+- `docs/playbook-optimasi-skills.md`: Playbook optimasi skill (diagram alur, fase 0–5, dan cheat-sheet prompt siap pakai).
 
 ---
 
@@ -58,4 +59,4 @@ Setup lengkap ekosistem AI coding agent plugins untuk **Antigravity** (Windows /
   /grill-with-docs <ide fitur atau proyek>
   ```
 
-Lihat panduan selengkapnya di [`docs/PLAYBOOK.md`](docs/PLAYBOOK.md).
+Lihat panduan selengkapnya di [`docs/PLAYBOOK.md`](docs/PLAYBOOK.md) atau [`docs/playbook-optimasi-skills.md`](docs/playbook-optimasi-skills.md).
